@@ -52,3 +52,8 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Specific Stuff
+.decomp_files/*
+.game_files/*
+*.sln
